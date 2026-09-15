@@ -13,87 +13,83 @@
   <img src="https://img.shields.io/badge/status-open%20to%20opportunities-1e2327?style=flat&logo=github" />
 </p>
 
----
+# Hi 👋 My name is Lokesh Pusdekar
 
-### 🚀 About Me
+## Java Backend Developer
 
-- 💻 Backend-focused developer building with **Core & Advanced Java**, **Spring Boot 3**, and **Hibernate 6**.
-- 🧱 Strong fundamentals in **OOPs**, **DSA (with Java)**, and low-level programming in **C / C++**.
-- 🌐 Comfortable across the stack — from **Servlets & JSP** on the backend to **React 18** on the frontend.
-- 🗄️ Work with **MySQL 8** for data persistence and design.
-- 🧪 `java_sandbox` and `c_sandbox` are my playgrounds for practicing concepts, patterns, and "let me just try this" experiments.
-- 🌱 Currently deepening my hands-on experience with the **Spring ecosystem (Core, Boot, Data)** and building complete full-stack projects.
+Backend-focused developer building with Core & Advanced Java, Spring Boot 3, and Hibernate 6. Strong fundamentals in OOPs, DSA (with Java), and low-level programming in C / C++. Comfortable across the stack — from Servlets & JSP on the backend to React 18 on the frontend.
 
----
+- 🌍 Based in India
+- 🗄️ Work with MySQL 8 for data persistence and design
+- 🧪 `java_sandbox` and `c_sandbox` are my playgrounds for practicing concepts, patterns, and "let me just try this" experiments
+- 🌱 Currently deepening my hands-on experience with the Spring ecosystem (Core, Boot, Data) and building complete full-stack projects
+- 🤝 Open to opportunities and collaborating on interesting projects
 
-### 🧰 Tech Stack
+### Social Media
+
+[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/LokeshPusdekar)
+[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](#)
+[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](#)
+
+> Replace the `#` links above with your actual LinkedIn / Twitter profile URLs.
+
+### Tech Stack
 
 **Languages & Fundamentals**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPs-4B32C3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge" />
-</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-4B32C3?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-2E8B57?style=flat-square)
 
 **Backend & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java%20EE%20/%20Servlets-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate%206-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Core%206-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
+
+![Servlets](https://img.shields.io/badge/Java%20EE%20/%20Servlets-007396?style=flat-square&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%206-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring%20Core%206-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+
+![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Database & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL%208-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
----
+![MySQL](https://img.shields.io/badge/MySQL%208-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 📌 Featured Projects
+### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LokeshPusdekar/WebFuzzer">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=LokeshPusdekar&repo=WebFuzzer&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LokeshPusdekar/Player_Management_System">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=LokeshPusdekar&repo=Player_Management_System&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LokeshPusdekar/String-Function">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=LokeshPusdekar&repo=String-Function&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LokeshPusdekar/Structures-in-C">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=LokeshPusdekar&repo=Structures-in-C&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828" />
-      </a>
-    </td>
-  </tr>
-</table>
+1. [WebFuzzer](https://github.com/LokeshPusdekar/WebFuzzer) — WebFuzzer Public
 
-<details>
-<summary>🧪 Practice & Sandbox Repos</summary>
-<br>
+    A web fuzzer that automatically sends various inputs to a web application to discover vulnerabilities, such as hidden files or security flaws.
+
+    Python
+
+2. [Player_Management_System](https://github.com/LokeshPusdekar/Player_Management_System) — Player_Management_System Public
+
+    A menu-driven Player Management System developed in C using structures, pointers, dynamic memory allocation, and CRUD operations to manage player records and analyze top-performing players.
+
+    C
+
+3. [String-Function](https://github.com/LokeshPusdekar/String-Function) — String-Function Public
+
+    Behind the Scenes of the Built-in string functions.
+
+    C
+
+4. [Structures-in-C](https://github.com/LokeshPusdekar/Structures-in-C) — Structures-in-C Public
+
+    Practice repository exploring structures in C.
+
+    C
+
+### Sandbox & Practice Repos
 
 | Repo | Purpose |
 |---|---|
@@ -104,32 +100,16 @@
 | [`CodeSoft_Task_03`](https://github.com/LokeshPusdekar/CodeSoft_Task_03) | Internship task / mini-project |
 | [`Firstbit`](https://github.com/LokeshPusdekar/Firstbit) | Early-stage practice project |
 
-</details>
+### Badges
+
+**My GitHub Stats**
+
+[![LokeshPusdekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokeshPusdekar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/LokeshPusdekar)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshPusdekar&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true)](http://www.github.com/LokeshPusdekar)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=LokeshPusdekar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/LokeshPusdekar)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LokeshPusdekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828&icon_color=F7A828" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshPusdekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7A828" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshPusdekar&theme=dark&hide_border=true&background=0d1117&ring=F7A828&fire=F7A828" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <!-- Replace # with your actual profile links -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>"Strong fundamentals today, scalable systems tomorrow."</i>
-</p>
+*"Strong fundamentals today, scalable systems tomorrow."*
