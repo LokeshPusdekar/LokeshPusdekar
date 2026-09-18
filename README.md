@@ -1,9 +1,9 @@
-# LokeshPusdekar — GitHub Profile
+# LokeshPusdekar 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./output/light.svg">
-  <img alt="Lokesh Pusdekar animated GitHub profile banner" src="./output/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.gif">
+  <img src="./assets/banner-dark.gif" alt="Lokesh Pusdekar animated GitHub profile banner">
 </picture>
 
 ## Backend-focused Developer
